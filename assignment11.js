@@ -98,7 +98,12 @@
 
 
 //question18
-
-
-
-
+// var sentence = [1,2,3,3,4,5,]
+// var found = 0;
+// for(i=0 ; i<sentence.length ; i++){
+//     if(sentence[i] == 3){
+//         found++;
+//         continue;
+//     }
+// }
+// console.log(found);
